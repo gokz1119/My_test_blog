@@ -1,4 +1,4 @@
-baseURL = 'https://<GITHUB_USERNAME>.github.io/<GITHUB_REPO_NAME>/'
+baseURL = 'https://gokz1119.github.io/My_test_blog/'
 canonifyURLs = true
 languageCode = "en-us"
 theme = "terminal"
